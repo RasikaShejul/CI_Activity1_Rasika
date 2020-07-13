@@ -1,5 +1,5 @@
 //Write a function that returns the earned points in a single toss of a Darts game.
-
+//commit 3
 #include <stdio.h>
 #include <math.h>
 int points(int , int); // prototype
