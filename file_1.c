@@ -6,7 +6,6 @@ char* func(); // prototype
 int points(int , int); // prototype
 int main(){
     printf("%s",func());
-    return 0;
     int x,y;
     scanf("%d %d",&x,&y);
     printf("Entered coordinates are:(%d,%d)",x,y);
